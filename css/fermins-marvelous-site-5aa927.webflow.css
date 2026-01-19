@@ -171,7 +171,7 @@ a {
   word-break: keep-all;
   overflow-wrap: normal;
   border-radius: 0;
-  width: 100px;
+  width: 150px;
   min-width: auto;
   max-width: 100%;
   padding-top: .2rem;
@@ -218,6 +218,11 @@ a {
 .video-bg.blend {
   opacity: 1;
   mix-blend-mode: screen;
+}
+
+.primary-btn.menu.three .div-hide {
+  width: 150px;
+  overflow: hidden;
 }
 
 .div-hide {
